@@ -1,0 +1,1 @@
+root = "D:/Personal/DevProj\Web\ReactExpress\server"
